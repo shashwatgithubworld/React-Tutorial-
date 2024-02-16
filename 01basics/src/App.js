@@ -1,13 +1,10 @@
 
-import Chai from "./Chai";
+import Component from "./Component";
 
 function App() {
   return (
     <>
-    <Chai />
-    <h2>Hello from React from Create React App</h2>
-    <p>Main hun DON</p>
-      
+    <Component />
     </>
   );
 }
