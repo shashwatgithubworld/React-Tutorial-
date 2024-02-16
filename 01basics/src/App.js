@@ -1,8 +1,14 @@
 
+import Chai from "./Chai";
 
 function App() {
   return (
-    <h1>React App | Shashwat</h1>
+    <>
+    <Chai />
+    <h2>Hello from React from Create React App</h2>
+    <p>Main hun DON</p>
+      
+    </>
   );
 }
 

@@ -1,10 +1,15 @@
 
-
+import Chai from "../src/Chai"
 
 function App() {
   
   return (
-   <h1>Hello from vite | Shashwat</h1>
+    <>
+   <Chai />
+   <h1>Hello from React</h1>
+   <p>Main hun DON</p>
+   
+   </>
   )
 }
 
