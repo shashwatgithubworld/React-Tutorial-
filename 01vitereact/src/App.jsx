@@ -1,14 +1,11 @@
 
-import Chai from "../src/Chai"
+import Component from "./Component"
 
 function App() {
   
   return (
     <>
-   <Chai />
-   <h1>Hello from React</h1>
-   <p>Main hun DON</p>
-   
+   <Component />
    </>
   )
 }
